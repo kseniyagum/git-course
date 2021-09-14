@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 something. Life is good!
+=======
+something new
+>>>>>>> new
